@@ -1,7 +1,6 @@
 # PowerBI_DACH_Transport_dashboard
 DACH Region Transport Performance & Cost Audit
 
-**Project Type:** Data Analytics Portfolio Project
 **Tech Stack:** SAP S/4HANA Data Simulation (SD/TM), Power Query, Power BI
 
 ## Business Context
